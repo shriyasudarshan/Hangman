@@ -29,14 +29,14 @@ int main()
     srand(time(NULL));
     // Array of words with hints
     struct WordWithHint wordList[] = {
-        { "Clock", "Something that has hands but cannot clap" },
-        { "Fire", "What dies, when given water?" },
+        { "clock", "Something that has hands but cannot clap" },
+        { "fire", "What dies, when given water?" },
         { "pasta", "A popular Italian dish" },
         { "beach", "Sandy shore by the sea" },
         { "needle", "What has an eye, but cannot see?" },
-        { "Word", "Entry in a Dictionary"},  
-        { "Fold", "What do origami artists do to a paper?"},
-        { "Worm", "Limbless prey for a bird"},
+        { "word", "Entry in a Dictionary"},  
+        { "fold", "What do origami artists do to a paper?"},
+        { "worm", "Limbless prey for a bird"},
   
     };
 
